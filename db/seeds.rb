@@ -16,34 +16,34 @@ InventoryItem.reset_pk_sequence
 array_of_shops = [
     {
       name: "The Party",
-      image: "https://5e.tools/img/adventure/CoS/Ireena%20Kolyana.jpg?v=1.114.1",
+      image: "http://5e.tools/img/adventure/CoS/Ireena%20Kolyana.jpg?v=1.114.1",
       bio: "Add session notes here"
     },
     {
       name: "3 Non Blondes",
-      image: "https://5e.tools/img/adventure/CoS/Morgantha.jpg?v=1.114.1",
+      image: "http://5e.tools/img/adventure/CoS/Morgantha.jpg?v=1.114.1",
       bio: "Just three nice women who run an orphanage and sell pastries, definitely not a witch coven."
     },
     {
       name: "Die Biere bie Berez",
-      image: "https://preview.redd.it/vu84ig2as0351.jpg?auto=webp&s=e09af868537b2641827020faa3cdbb6b747a5bef"
+      image: "http://preview.redd.it/vu84ig2as0351.jpg?auto=webp&s=e09af868537b2641827020faa3cdbb6b747a5bef"
     },
     {
-      name: "Odd Ends",
+      name: "Odd's Ends",
       bio: "Formerly 'Bildrath's Mercantile'",
-      image: "https://1.bp.blogspot.com/-O203XaPYvlo/VAvnLz3bo6I/AAAAAAAACXQ/8xv37bonmwQ/s1600/pharmacy_by_realnam-d6rvlo6.jpg"
+      image: "http://1.bp.blogspot.com/-O203XaPYvlo/VAvnLz3bo6I/AAAAAAAACXQ/8xv37bonmwQ/s1600/pharmacy_by_realnam-d6rvlo6.jpg"
     },
     {
       name: "Blood of the Vine Tavern",
-      image: "https://5e.tools/img/adventure/CoS/Ismark-the-Lesser.jpg?v=1.114.1"
+      image: "http://5e.tools/img/adventure/CoS/Ismark-the-Lesser.jpg?v=1.114.1"
     },
     {
       name: "A Mary Bed and Breakfast",
-      image: "https://5e.tools/img/adventure/CoS/Mad%20Mary.jpg?v=1.114.1"
+      image: "http://5e.tools/img/adventure/CoS/Mad%20Mary.jpg?v=1.114.1"
     },
     {
       name: "Church of the Morning Lord: Father Donavich",
-      image: "https://5e.tools/img/adventure/CoS/Donavich.jpg?v=1.114.1"
+      image: "http://5e.tools/img/adventure/CoS/Donavich.jpg?v=1.114.1"
     }
 ]
 

@@ -12,7 +12,7 @@ class InventoryItemsController < ApplicationController
 
     def create
         @inventory_item = InventoryItem.create(inventory_item_params)
-        render json: @inventory_item
+        render json: @inventory_item.shop
     end
 
     def update
