@@ -82,6 +82,33 @@ array_of_items = [
     {
       item_name: "Candle",
       description: "PHB151, 1 hour a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet... Burglar's Pack x5, Entertainer's Pack x5, Priest's Pack x10"
+    },
+    {
+      plot: true,
+      magical: true,
+      item_name: "Sun Blade",
+      description: 
+          "+2 Longsword, 1d8 RADIANT plus an additional 1d8 if is undead. Bright Sunlight 15' dim 15', bonus action to de/increase 5'.
+          An enscription reads 'aster's sheath so is he mine.'",
+      weight: 3
+    },
+    {
+      plot: true,
+      magical: true,
+      item_name: "Shards of a Sorrowful Blade",
+      description: 
+        "A cold luminescence leaks from the razor sharp edges of each chrystalline shard.  
+        If cut by an edge, the next time they dream the target must make a DC 15 Wisdom save.  On a failure, the target has dreams of wielding a cosmically powerful sword and awakes with a driving desire to see the sword restored.
+        An enscription reads 'To unsheathe me is to unsheathe my master, for as I am my m-'"
+    },
+    {
+      plot: true,
+      magical: true,
+      item_name: "The Sorrow Sword",
+      description:
+        "A +3 Longsword, unless the target is a member of the von Zarovich family, in which case it is a +4 longsword
+        1d8 radiant damage on a hit, with an additional 1d8 if the either target is undead or a member of the von Zarovich family (stacks).   
+        An enscription reads 'To unsheathe me is to unsheathe my master, for as I am my master's sheath so is he mine.'"
     }
 ]
 

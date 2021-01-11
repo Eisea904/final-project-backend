@@ -17,6 +17,11 @@ class ShopsController < ApplicationController
 
     def update
         @shop = Shop.find(params[:id])
+        if params[:roses]
+            @shop.update(roses:params[:roses][0])
+        else 
+            @shop.update(electrum:params[:electrum][0])
+        end
         @shop.update(shop_params)
         render json: @shop
     end
